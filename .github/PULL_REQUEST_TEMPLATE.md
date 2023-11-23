@@ -1,4 +1,4 @@
-<!-- Please include the ticket and/or task number in the PR title, with an FD or DT prefix, e.g. "[FD12345] Title Goes Here" -->
+<!-- Please include the ticket and/or task number with an FD or DT prefix in the PR title above, e.g. "[FD12345] Title Goes Here" -->
 
 See: <!-- Please add a direct link to the Freshdesk ticket and/or the DashTasks task here -->
 
